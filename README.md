@@ -1,3 +1,1 @@
 # BlackJack
-
-Rubén Quintas Alonso
